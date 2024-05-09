@@ -5,7 +5,6 @@
   <p>A love for problem-solving and an eye for visual storytelling. Past experience as a visual effects & motion designer working with VFX compositing and scripting in javascript/VEX.</p>
   <br>
   <br>
-  <br>
 </div>
 
 
