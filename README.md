@@ -4,10 +4,7 @@
   <p>Currently attending <SALT/> C# .NET Bootcamp. Situated in Stockholm.</p>
   <p>A love for problem-solving and an eye for visual storytelling. Past experience as a visual effects & motion designer working with VFX compositing and scripting in javascript/VEX.</p>
   <br>
-  <br>
 </div>
-
-
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -22,3 +19,9 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=william00771&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<h2>Feel free to send me a message!</h2>
+
+<a href="https://www.linkedin.com/in/william-f-lindberg/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:william.f.lindberg@hotmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" width="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/williamflindberg/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50px"/></a>
