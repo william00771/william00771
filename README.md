@@ -5,6 +5,7 @@
   <p>A love for problem-solving and an eye for visual storytelling. Past experience as a visual effects & motion designer working with VFX compositing and scripting in javascript/VEX.</p>
   <br>
   <br>
+  <br>
 </div>
 
 
@@ -20,7 +21,5 @@
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=william00771&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
