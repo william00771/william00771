@@ -6,17 +6,52 @@
   <br>
 </div>
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SignalR](https://img.shields.io/badge/-SignalR-AC1400?style=flat-square&logo=signalr&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=entity-framework&logoColor=white)
-![xUnit](https://img.shields.io/badge/-xUnit-5B2D90?style=flat-square&logo=xunit&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C# Badge">
+</a>
+
+<a href="https://docs.microsoft.com/en-us/dotnet/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Badge">
+</a>
+
+<a href="https://dotnet.microsoft.com/apps/aspnet/signalr" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-SignalR-AC1400?style=flat-square&logo=signalr&logoColor=white" alt="SignalR Badge">
+</a>
+
+<a href="https://docs.microsoft.com/en-us/ef/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=entity-framework&logoColor=white" alt="Entity Framework Badge">
+</a>
+
+<a href="https://xunit.net/docs/getting-started" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-xUnit-5B2D90?style=flat-square&logo=xunit&logoColor=white" alt="xUnit Badge">
+</a>
+
+<a href="https://docs.microsoft.com/en-us/sql/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server Badge">
+</a>
+
+<a href="https://www.docker.com/get-started" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge">
+</a>
+
+<a href="https://docs.github.com/en/actions" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions Badge">
+</a>
+
+<a href="https://azure.microsoft.com/en-us/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Badge">
+</a>
+
+<a href="https://www.typescriptlang.org/docs/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Badge">
+</a>
+
+<a href="https://reactjs.org/docs/getting-started.html" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Badge">
+</a>
+
+<br>
+<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=william00771&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
