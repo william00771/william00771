@@ -1,7 +1,7 @@
 <div>
   <h1>Hi there! I'm a passionate developer focused on mainly .NET Core, C#, and real-time applications with SignalR.</h1>
   <p>I have a strong passion for problem solving and discussing ideas and thoughts with others! </p>
-  <p>Also a love for visual storytelling with past experience as a visual effects & motion designer working with VFX compositing and scripting in javascript/VEX.</p>
+  <p>A love for visual storytelling with past experience as a visual effects & motion designer working with VFX compositing and scripting in javascript/VEX.</p>
   <br>
 </div>
 
