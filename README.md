@@ -13,6 +13,14 @@
     <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Badge">
 </a>
 
+<a href="https://xunit.net/docs/getting-started" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-xUnit-5B2D90?style=flat-square&logo=xunit&logoColor=white" alt="xUnit Badge">
+</a>
+
+<a href="https://playwright.dev/docs/intro" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Playwright-00BFFF?style=flat-square&logo=playwright&logoColor=white" alt="Playwright Badge">
+</a>
+
 <a href="https://dotnet.microsoft.com/apps/aspnet/signalr" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-SignalR-AC1400?style=flat-square&logo=signalr&logoColor=white" alt="SignalR Badge">
 </a>
@@ -21,12 +29,16 @@
     <img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=entity-framework&logoColor=white" alt="Entity Framework Badge">
 </a>
 
-<a href="https://xunit.net/docs/getting-started" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-xUnit-5B2D90?style=flat-square&logo=xunit&logoColor=white" alt="xUnit Badge">
+<a href="https://docs.microsoft.com/en-us/sql/t-sql/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-TSQL-2F855A?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="TSQL Badge">
 </a>
 
 <a href="https://docs.microsoft.com/en-us/sql/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server Badge">
+</a>
+
+<a href="https://www.postgresql.org/docs/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
 </a>
 
 <a href="https://www.docker.com/get-started" style="text-decoration: none;">
@@ -43,6 +55,10 @@
 
 <a href="https://www.typescriptlang.org/docs/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Badge">
+</a>
+
+<a href="https://nextjs.org/docs" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js Badge">
 </a>
 
 <a href="https://reactjs.org/docs/getting-started.html" style="text-decoration: none;">
