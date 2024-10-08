@@ -61,8 +61,6 @@
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Badge">
 </a>
 
-<br>
-
 <a href="https://nextjs.org/docs" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Next.js-4B5563?style=flat-square&logo=next.js&logoColor=white" alt="Next.js Badge">
 </a>
