@@ -2,6 +2,14 @@
   <h1>Hi there! I'm a passionate developer focused on mainly .NET Core, C#, and real-time applications with SignalR.</h1>
   <p>I have a strong passion for problem solving and discussing ideas and thoughts with others! </p>
   <p>A love for visual storytelling with past experience as a visual effects & motion designer working with VFX compositing and scripting in javascript/VEX.</p>
+  <p>
+    I currently work at Scania with SQL Server, data warehousing, invoice flows,
+    system integrations, and business-critical data processes.
+  </p>
+  <p>
+    My role involves developing and maintaining reliable data solutions, improving data quality,
+    and supporting financial and operational reporting across complex enterprise systems.
+  </p>
   <br>
 </div>
 
